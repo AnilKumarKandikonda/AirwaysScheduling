@@ -1,0 +1,14 @@
+E:\AirTek\FlightScheduling\bin\Debug\net8.0\FlightScheduling.exe
+E:\AirTek\FlightScheduling\bin\Debug\net8.0\FlightScheduling.deps.json
+E:\AirTek\FlightScheduling\bin\Debug\net8.0\FlightScheduling.runtimeconfig.json
+E:\AirTek\FlightScheduling\bin\Debug\net8.0\FlightScheduling.dll
+E:\AirTek\FlightScheduling\bin\Debug\net8.0\FlightScheduling.pdb
+E:\AirTek\FlightScheduling\obj\Debug\net8.0\FlightScheduling.GeneratedMSBuildEditorConfig.editorconfig
+E:\AirTek\FlightScheduling\obj\Debug\net8.0\FlightScheduling.AssemblyInfoInputs.cache
+E:\AirTek\FlightScheduling\obj\Debug\net8.0\FlightScheduling.AssemblyInfo.cs
+E:\AirTek\FlightScheduling\obj\Debug\net8.0\FlightScheduling.csproj.CoreCompileInputs.cache
+E:\AirTek\FlightScheduling\obj\Debug\net8.0\FlightScheduling.dll
+E:\AirTek\FlightScheduling\obj\Debug\net8.0\refint\FlightScheduling.dll
+E:\AirTek\FlightScheduling\obj\Debug\net8.0\FlightScheduling.pdb
+E:\AirTek\FlightScheduling\obj\Debug\net8.0\FlightScheduling.genruntimeconfig.cache
+E:\AirTek\FlightScheduling\obj\Debug\net8.0\ref\FlightScheduling.dll
